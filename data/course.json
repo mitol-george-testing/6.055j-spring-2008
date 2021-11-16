@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3069cc28-b31e-9000-e3ac-1f88d33c39de"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Art of Approximation in Science and Engineering",
+  "course_description": "This course teaches simple reasoning techniques for complex phenomena: divide and conquer, dimensional analysis, extreme cases, continuity, scaling, successive approximation, balancing, cheap calculus, and symmetry. Applications are drawn from the physical and biological sciences, mathematics, and engineering. Examples include bird and machine flight, neuron biophysics, weather, prime numbers, and animal locomotion. Emphasis is on low-cost experiments to test ideas and on fostering curiosity about phenomena in the world.\n",
+  "department_numbers": [
+    "6",
+    "2"
+  ],
+  "extra_course_numbers": "2.038J",
+  "primary_course_number": "6.055J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Online Textbook"
+  ],
+  "title": "Course Metadata"
+}
